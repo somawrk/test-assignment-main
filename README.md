@@ -34,7 +34,7 @@ Testname:
 1. Clone the repo using below URL
 
 ```sh
-
+https://github.com/somawrk/test-assignment-main.git
 ```
 
 2. Navigate to folder and install npm packages using:
@@ -59,10 +59,7 @@ npx playwright install
 npx playwright test
 
 # Run a single test file
-npx playwright test tests/todo-page.spec.ts
-
-# Run a set of test files
-npx playwright test tests/todo-page/ tests/landing-page/
+npx playwright test tests/bmi.spec.ts
 
 # Run tests at a specific line
 npx playwright test my-spec.ts:42

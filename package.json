@@ -1,0 +1,22 @@
+{
+  "name": "test-assignment-main",
+  "version": "1.0.0",
+  "description": "An example project demonstrating automation of playwright tests using page object design pattern framework.",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/somawrk/test-assignment-main.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/somawrk/test-assignment-main/issues"
+  },
+  "homepage": "https://github.com/somawrk/test-assignment-main#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.56.1",
+    "@types/node": "^24.9.1"
+  }
+}
